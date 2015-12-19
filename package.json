@@ -1,0 +1,23 @@
+{
+  "name": "passport_local_login_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@try.gogs.io:SimonSun/passport_local_login_demo.git"
+  },
+  "author": "Simon Sun",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-session": "^2.0.0-alpha.1",
+    "express": "^4.13.3",
+    "nunjucks": "^2.2.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
